@@ -9488,6 +9488,1390 @@
                     ]
                 }
             ]
+        },
+        {
+            "booktitle": "N3",
+            "unit": [
+                {
+                    "title": "1回",
+                    "subtitle": "短文 1 ~ 2 課",
+                    "tango": [
+                        {
+                            "kanji": "株式会社",
+                            "hiragana": "かぶしきがいしゃ",
+                            "pronunciation": "카부시키가이샤",
+                            "korean": "주식회사"
+                        },
+                        {
+                            "kanji": "お世話",
+                            "hiragana": "おせわ",
+                            "pronunciation": "오세와",
+                            "korean": "신세지다"
+                        },
+                        {
+                            "kanji": "当社",
+                            "hiragana": "とうしゃ",
+                            "pronunciation": "토우샤",
+                            "korean": "당사"
+                        },
+                        {
+                            "kanji": "満足度",
+                            "hiragana": "まんぞくど",
+                            "pronunciation": "만조쿠도",
+                            "korean": "만족도"
+                        },
+                        {
+                            "kanji": "向上",
+                            "hiragana": "こうじょう",
+                            "pronunciation": "코우죠우",
+                            "korean": "향상"
+                        },
+                        {
+                            "kanji": "目的",
+                            "hiragana": "もくてき",
+                            "pronunciation": "모쿠테키",
+                            "korean": "목적"
+                        },
+                        {
+                            "kanji": "業務改善",
+                            "hiragana": "ぎょうむかいぜん",
+                            "pronunciation": "교우무카이젠",
+                            "korean": "업무개선"
+                        },
+                        {
+                            "kanji": "行う",
+                            "hiragana": "おこなう",
+                            "pronunciation": "오코나우",
+                            "korean": "행하다"
+                        },
+                        {
+                            "kanji": "調査",
+                            "hiragana": "ちょうさ",
+                            "pronunciation": "쵸우사",
+                            "korean": "조사"
+                        },
+                        {
+                            "kanji": "実施",
+                            "hiragana": "じっし",
+                            "pronunciation": "짓시",
+                            "korean": "실시"
+                        },
+                        {
+                            "kanji": "お問い合わせ",
+                            "hiragana": "おといあわせ",
+                            "pronunciation": "오토이아와세",
+                            "korean": "문의"
+                        },
+                        {
+                            "kanji": "～を基にして",
+                            "hiragana": "～をもとにして",
+                            "pronunciation": "～오모토니시테",
+                            "korean": "~을 토대로 하여"
+                        },
+                        {
+                            "kanji": "提供",
+                            "hiragana": "ていきょう",
+                            "pronunciation": "테이쿄우",
+                            "korean": "제공"
+                        },
+                        {
+                            "kanji": "努力",
+                            "hiragana": "どりょく",
+                            "pronunciation": "도료쿠",
+                            "korean": "노력"
+                        },
+                        {
+                            "kanji": "参る",
+                            "hiragana": "まいる",
+                            "pronunciation": "마이루",
+                            "korean": "가다, 오다"
+                        },
+                        {
+                            "kanji": "お送りする",
+                            "hiragana": "おおくりする",
+                            "pronunciation": "오오쿠리스루",
+                            "korean": "보내다"
+                        },
+                        {
+                            "kanji": "返信",
+                            "hiragana": "へんしん",
+                            "pronunciation": "헨신",
+                            "korean": "답신"
+                        },
+                        {
+                            "kanji": "お忙しいところ",
+                            "hiragana": "おいそがしいところ ",
+                            "pronunciation": "오이소가시이토코로 ",
+                            "korean": "바쁘신 중에"
+                        },
+                        {
+                            "kanji": "協力",
+                            "hiragana": "きょうりょく",
+                            "pronunciation": "쿄우료쿠",
+                            "korean": "협력"
+                        },
+                        {
+                            "kanji": "なお",
+                            "pronunciation": "나오",
+                            "korean": "또한"
+                        },
+                        {
+                            "kanji": "受信",
+                            "hiragana": "じゅしん",
+                            "pronunciation": "쥬신",
+                            "korean": "수신"
+                        },
+                        {
+                            "kanji": "誰でも",
+                            "hiragana": "だれでも",
+                            "pronunciation": "다레데모",
+                            "korean": "누그든지"
+                        },
+                        {
+                            "kanji": "参加",
+                            "hiragana": "さんか",
+                            "pronunciation": "산카",
+                            "korean": "참가"
+                        },
+                        {
+                            "kanji": "パワハラ",
+                            "pronunciation": "파와하라",
+                            "korean": "파워 해리스먼트"
+                        },
+                        {
+                            "kanji": "原因",
+                            "hiragana": "げんいん",
+                            "pronunciation": "겐인",
+                            "korean": "원인"
+                        },
+                        {
+                            "kanji": "つう病",
+                            "hiragana": "つうやまい",
+                            "pronunciation": "츠우야마이",
+                            "korean": "우을증"
+                        },
+                        {
+                            "kanji": "発症",
+                            "hiragana": "はっしょう",
+                            "pronunciation": "핫쇼우",
+                            "korean": "발병"
+                        },
+                        {
+                            "kanji": "たえられず",
+                            "pronunciation": "타에라레즈",
+                            "korean": "참을 수 없어서"
+                        },
+                        {
+                            "kanji": "自殺",
+                            "hiragana": "じさつ",
+                            "pronunciation": "지사츠",
+                            "korean": "자살"
+                        },
+                        {
+                            "kanji": "耳にする",
+                            "hiragana": "みみにする",
+                            "pronunciation": "미미니스루",
+                            "korean": "듣다"
+                        },
+                        {
+                            "kanji": "略する",
+                            "hiragana": "りゃくする",
+                            "pronunciation": "랴쿠스루",
+                            "korean": "줄이다"
+                        },
+                        {
+                            "kanji": "職場",
+                            "hiragana": "しょくば",
+                            "pronunciation": "쇼쿠바",
+                            "korean": "직장"
+                        },
+                        {
+                            "kanji": "～に対して",
+                            "hiragana": "～にたいして",
+                            "pronunciation": "～니타이시테",
+                            "korean": "~을 대상으로"
+                        },
+                        {
+                            "kanji": "職務上",
+                            "hiragana": "しょくむ-じょう",
+                            "pronunciation": "쇼쿠무-죠우",
+                            "korean": "직무상"
+                        },
+                        {
+                            "kanji": "地位",
+                            "hiragana": "ちい",
+                            "pronunciation": "치이",
+                            "korean": "지위"
+                        },
+                        {
+                            "kanji": "利用",
+                            "hiragana": "りよう",
+                            "pronunciation": "리요우",
+                            "korean": "이용"
+                        },
+                        {
+                            "kanji": "適当",
+                            "hiragana": "てきとう",
+                            "pronunciation": "테키토우",
+                            "korean": "적당"
+                        },
+                        {
+                            "kanji": "範囲",
+                            "hiragana": "はんい",
+                            "pronunciation": "한이",
+                            "korean": "범위"
+                        },
+                        {
+                            "kanji": "超える",
+                            "hiragana": "こえる",
+                            "pronunciation": "코에루",
+                            "korean": "초과하다"
+                        },
+                        {
+                            "kanji": "精神的",
+                            "hiragana": "せいしん-てき",
+                            "pronunciation": "세이신-테키",
+                            "korean": "정신적"
+                        },
+                        {
+                            "kanji": "身体的",
+                            "hiragana": "しんたい-てき",
+                            "pronunciation": "신타이-테키",
+                            "korean": "신체적"
+                        },
+                        {
+                            "kanji": "苦痛",
+                            "hiragana": "くつう",
+                            "pronunciation": "쿠츠우",
+                            "korean": "고통"
+                        },
+                        {
+                            "kanji": "与える",
+                            "hiragana": "あたえる",
+                            "pronunciation": "아타에루",
+                            "korean": "주다"
+                        },
+                        {
+                            "kanji": "暴言",
+                            "hiragana": "ぼうげん",
+                            "pronunciation": "보우겐",
+                            "korean": "폭언"
+                        },
+                        {
+                            "kanji": "怒鳴る",
+                            "hiragana": "どなる",
+                            "pronunciation": "도나루",
+                            "korean": "고함치다"
+                        },
+                        {
+                            "kanji": "殴る",
+                            "hiragana": "なぐる",
+                            "pronunciation": "나구루",
+                            "korean": "때리다"
+                        },
+                        {
+                            "kanji": "叩く",
+                            "hiragana": "たたく",
+                            "pronunciation": "타타쿠",
+                            "korean": "치다"
+                        },
+                        {
+                            "kanji": "ぶつける",
+                            "pronunciation": "부츠케루",
+                            "korean": "던지다"
+                        },
+                        {
+                            "kanji": "いやがらせ",
+                            "pronunciation": "이야가라세",
+                            "korean": "괴롭힘"
+                        },
+                        {
+                            "kanji": "人間関係",
+                            "hiragana": "にんげんかんけい",
+                            "pronunciation": "닌겐칸케이",
+                            "korean": "인간관계"
+                        },
+                        {
+                            "kanji": "切り離す",
+                            "hiragana": "きりはなす",
+                            "pronunciation": "키리하나스",
+                            "korean": "떼내다"
+                        },
+                        {
+                            "kanji": "ハードルが高い",
+                            "hiragana": "ハードルがたかい",
+                            "pronunciation": "하-도루가타카이",
+                            "korean": "곤란하다"
+                        },
+                        {
+                            "kanji": "任せる",
+                            "hiragana": "まかせる",
+                            "pronunciation": "마카세루",
+                            "korean": "맡기다"
+                        },
+                        {
+                            "kanji": "逆に",
+                            "hiragana": "ぎゃくに",
+                            "pronunciation": "갸쿠니",
+                            "korean": "반대로"
+                        },
+                        {
+                            "kanji": "掃除",
+                            "hiragana": "そうじ",
+                            "pronunciation": "소우지",
+                            "korean": "청소"
+                        },
+                        {
+                            "kanji": "難易度",
+                            "hiragana": "なんいど",
+                            "pronunciation": "난이도",
+                            "korean": "난이도"
+                        },
+                        {
+                            "kanji": "あてはまる",
+                            "pronunciation": "아테하마루",
+                            "korean": "해당되다"
+                        },
+                        {
+                            "kanji": "飲み会",
+                            "hiragana": "のみかい",
+                            "pronunciation": "노미카이",
+                            "korean": "술 모임"
+                        },
+                        {
+                            "kanji": "送別会",
+                            "hiragana": "そうべつかい",
+                            "pronunciation": "소우베츠카이",
+                            "korean": "송별회"
+                        },
+                        {
+                            "kanji": "給与",
+                            "hiragana": "きゅうよ",
+                            "pronunciation": "큐우요",
+                            "korean": "급여"
+                        },
+                        {
+                            "kanji": "さくげん",
+                            "pronunciation": "사쿠겐",
+                            "korean": "삭감"
+                        },
+                        {
+                            "kanji": "達成",
+                            "hiragana": "たっせい",
+                            "pronunciation": "탓세이",
+                            "korean": "달성"
+                        },
+                        {
+                            "kanji": "～向け",
+                            "hiragana": "~むけ",
+                            "pronunciation": "~무케",
+                            "korean": "~용 (정해진)"
+                        },
+                        {
+                            "kanji": "化粧品",
+                            "hiragana": "けしょうひん",
+                            "pronunciation": "케쇼우힌",
+                            "korean": "화장품"
+                        },
+                        {
+                            "kanji": "薬局",
+                            "hiragana": "やっきょく",
+                            "pronunciation": "얏쿄쿠",
+                            "korean": "약국"
+                        },
+                        {
+                            "kanji": "メンズ用",
+                            "hiragana": "メンズよう",
+                            "pronunciation": "멘즈요우",
+                            "korean": "남성용"
+                        },
+                        {
+                            "kanji": "芸能人",
+                            "hiragana": "げいのうじん",
+                            "pronunciation": "게이노우진",
+                            "korean": "연예인"
+                        },
+                        {
+                            "kanji": "～に限らず",
+                            "hiragana": "にかぎらず",
+                            "pronunciation": "니카기라즈",
+                            "korean": "~에 한하지 않고"
+                        },
+                        {
+                            "kanji": "一般社員",
+                            "hiragana": "いっぱんしゃいん",
+                            "pronunciation": "잇판샤인",
+                            "korean": "일반 사원"
+                        },
+                        {
+                            "kanji": "肌",
+                            "hiragana": "はだ",
+                            "pronunciation": "하다",
+                            "korean": "피부"
+                        },
+                        {
+                            "kanji": "～たところ",
+                            "pronunciation": "～타토코로",
+                            "korean": "~했더니"
+                        },
+                        {
+                            "kanji": "さらに",
+                            "pronunciation": "사라니",
+                            "korean": "게다가"
+                        },
+                        {
+                            "kanji": "年代別",
+                            "hiragana": "ねんだいべつ",
+                            "pronunciation": "넨다이베츠",
+                            "korean": "연령별"
+                        },
+                        {
+                            "kanji": "割合",
+                            "hiragana": "わりあい",
+                            "pronunciation": "와리아이",
+                            "korean": "비율"
+                        },
+                        {
+                            "kanji": "～に対し",
+                            "hiragana": "~にたいし",
+                            "pronunciation": "~니타이시",
+                            "korean": "~에 비해"
+                        },
+                        {
+                            "kanji": "とどまる",
+                            "pronunciation": "토도마루",
+                            "korean": "그치다"
+                        },
+                        {
+                            "kanji": "抵抗感",
+                            "hiragana": "ていこうかん",
+                            "pronunciation": "테이코우칸",
+                            "korean": "저항감"
+                        },
+                        {
+                            "kanji": "口紅をぬる",
+                            "hiragana": "くちべにをぬる",
+                            "pronunciation": "쿠치베니오누루",
+                            "korean": "립스틱을 바르다"
+                        },
+                        {
+                            "kanji": "主に",
+                            "hiragana": "おもに",
+                            "pronunciation": "오모니",
+                            "korean": "주로"
+                        },
+                        {
+                            "kanji": "批判",
+                            "hiragana": "ひはん",
+                            "pronunciation": "히한",
+                            "korean": "비판"
+                        },
+                        {
+                            "kanji": "お年寄り",
+                            "hiragana": "おとしより",
+                            "pronunciation": "오토시요리",
+                            "korean": "노인"
+                        }
+                    ]
+                },
+                {
+                    "title": "2回",
+                    "subtitle": "短文 3 ~ 6 課",
+                    "tango": [
+                        {
+                            "kanji": "自尊",
+                            "hiragana": "じそん",
+                            "pronunciation": "지손",
+                            "korean": "자존"
+                        },
+                        {
+                            "kanji": "感情",
+                            "hiragana": "かんじょう",
+                            "pronunciation": "칸죠우",
+                            "korean": "감정"
+                        },
+                        {
+                            "kanji": "~に対して",
+                            "hiragana": "にたいして",
+                            "pronunciation": "니타이시테",
+                            "korean": "~에 대해"
+                        },
+                        {
+                            "kanji": "価値",
+                            "hiragana": "かち",
+                            "pronunciation": "카치",
+                            "korean": "가치"
+                        },
+                        {
+                            "kanji": "肯定的",
+                            "hiragana": "こうていてき",
+                            "pronunciation": "코우테이테키",
+                            "korean": "긍정적"
+                        },
+                        {
+                            "kanji": "評価",
+                            "hiragana": "ひょうか",
+                            "pronunciation": "효우카",
+                            "korean": "평가"
+                        },
+                        {
+                            "kanji": "場合",
+                            "hiragana": "ばあい",
+                            "pronunciation": "바아이",
+                            "korean": "경우"
+                        },
+                        {
+                            "kanji": "否定的",
+                            "hiragana": "ひていてき",
+                            "pronunciation": "히테이테키",
+                            "korean": "부정적인"
+                        },
+                        {
+                            "kanji": "見なされる",
+                            "hiragana": "みなされる",
+                            "pronunciation": "미나사레루",
+                            "korean": "간주되다"
+                        },
+                        {
+                            "kanji": "不完全",
+                            "hiragana": "ふかんぜん",
+                            "pronunciation": "후칸젠",
+                            "korean": "불완전"
+                        },
+                        {
+                            "kanji": "優れる",
+                            "hiragana": "すぐれる",
+                            "pronunciation": "스구레루",
+                            "korean": "우수하다"
+                        },
+                        {
+                            "kanji": "あるがまま",
+                            "pronunciation": "아루가마마",
+                            "korean": "있는 그대로"
+                        },
+                        {
+                            "kanji": "受け入れる",
+                            "hiragana": "うけいれる",
+                            "pronunciation": "우케이레루",
+                            "korean": "받아들이다"
+                        },
+                        {
+                            "kanji": "自己",
+                            "hiragana": "じこ",
+                            "pronunciation": "지코",
+                            "korean": "자기"
+                        },
+                        {
+                            "kanji": "受容",
+                            "hiragana": "じゅよう",
+                            "pronunciation": "쥬요우",
+                            "korean": "수용"
+                        },
+                        {
+                            "kanji": "ありのままの",
+                            "pronunciation": "아리노마마노",
+                            "korean": "있는 그대로의"
+                        },
+                        {
+                            "kanji": "見つめ直す",
+                            "hiragana": "みつめなおす",
+                            "pronunciation": "미츠메나오스",
+                            "korean": "다시 들여다보다"
+                        },
+                        {
+                            "kanji": "他人",
+                            "hiragana": "たにん",
+                            "pronunciation": "타닌",
+                            "korean": "타인"
+                        },
+                        {
+                            "kanji": "認める",
+                            "hiragana": "みとめる",
+                            "pronunciation": "미토메루",
+                            "korean": "인정하다"
+                        },
+                        {
+                            "kanji": "戦争",
+                            "hiragana": "せんそう",
+                            "pronunciation": "센소우",
+                            "korean": "전쟁"
+                        },
+                        {
+                            "kanji": "嫌いだ",
+                            "hiragana": "きらいだ",
+                            "pronunciation": "키라이다",
+                            "korean": "싫어하다"
+                        },
+                        {
+                            "kanji": "抵抗する",
+                            "hiragana": "ていこう",
+                            "pronunciation": "테이코우",
+                            "korean": "저항하다"
+                        },
+                        {
+                            "kanji": "支える",
+                            "hiragana": "ささえる",
+                            "pronunciation": "사사에루",
+                            "korean": "지탱하다"
+                        },
+                        {
+                            "kanji": "様子",
+                            "hiragana": "ようす",
+                            "pronunciation": "요우스",
+                            "korean": "모습"
+                        },
+                        {
+                            "kanji": "様々な",
+                            "hiragana": "さまざまな",
+                            "pronunciation": "사마자마나",
+                            "korean": "다양한"
+                        },
+                        {
+                            "kanji": "協力",
+                            "hiragana": "きょうりょく",
+                            "pronunciation": "쿄우료쿠",
+                            "korean": "협력"
+                        },
+                        {
+                            "kanji": "兵士",
+                            "hiragana": "へいし",
+                            "pronunciation": "헤이시",
+                            "korean": "병사"
+                        },
+                        {
+                            "kanji": "励ます",
+                            "hiragana": "はげます",
+                            "pronunciation": "하게마스",
+                            "korean": "격력하다"
+                        },
+                        {
+                            "kanji": "役割を持つ",
+                            "hiragana": "やくわりをもつ",
+                            "pronunciation": "야쿠와리오모츠",
+                            "korean": "역할을 맡다"
+                        },
+                        {
+                            "kanji": "国防",
+                            "hiragana": "こくぼう",
+                            "pronunciation": "코쿠보우",
+                            "korean": "국방"
+                        },
+                        {
+                            "kanji": "婦人会",
+                            "hiragana": "ふじんかい",
+                            "pronunciation": "후진카이",
+                            "korean": "부인회"
+                        },
+                        {
+                            "kanji": "会員",
+                            "hiragana": "かいいん",
+                            "pronunciation": "카이인",
+                            "korean": "회원"
+                        },
+                        {
+                            "kanji": "存在",
+                            "hiragana": "そんざい",
+                            "pronunciation": "손자이",
+                            "korean": "존재"
+                        },
+                        {
+                            "kanji": "示す",
+                            "hiragana": "しめす",
+                            "pronunciation": "시메스",
+                            "korean": "보이다"
+                        },
+                        {
+                            "kanji": "身近な",
+                            "hiragana": "みぢかな",
+                            "pronunciation": "미지카나",
+                            "korean": "가까운"
+                        },
+                        {
+                            "kanji": "ほめたたえる",
+                            "pronunciation": "호메타타에루",
+                            "korean": "칭송하다"
+                        },
+                        {
+                            "kanji": "関東大震災",
+                            "hiragana": "かんとうだいしんさい",
+                            "pronunciation": "칸토우다이신사이",
+                            "korean": "관동대지진"
+                        },
+                        {
+                            "kanji": "経済",
+                            "hiragana": "けいざい",
+                            "pronunciation": "케이자이",
+                            "korean": "경제"
+                        },
+                        {
+                            "kanji": "大困難",
+                            "hiragana": "だいこんなん",
+                            "pronunciation": "다이콘난",
+                            "korean": "매우 어려움"
+                        },
+                        {
+                            "kanji": "~通じて",
+                            "hiragana": "つうじて",
+                            "pronunciation": "츠우지테",
+                            "korean": "~을 통해서"
+                        },
+                        {
+                            "kanji": "不況",
+                            "hiragana": "ふきょう",
+                            "pronunciation": "후쿄우",
+                            "korean": "불황"
+                        },
+                        {
+                            "kanji": "脱出",
+                            "hiragana": "たっしゅつ",
+                            "pronunciation": "탓슈츠",
+                            "korean": "탈출"
+                        },
+                        {
+                            "kanji": "手段",
+                            "hiragana": "しゅだん",
+                            "pronunciation": "슈단",
+                            "korean": "수단"
+                        },
+                        {
+                            "kanji": "動かす",
+                            "hiragana": "うごかす",
+                            "pronunciation": "우고카스",
+                            "korean": "움직이다"
+                        },
+                        {
+                            "kanji": "続く",
+                            "hiragana": "つづく",
+                            "pronunciation": "츠즈쿠",
+                            "korean": "계속되다"
+                        },
+                        {
+                            "kanji": "関わる",
+                            "hiragana": "かかわる",
+                            "pronunciation": "카카와루",
+                            "korean": "관계가 있다"
+                        },
+                        {
+                            "kanji": "形",
+                            "hiragana": "かたち",
+                            "pronunciation": "카타치",
+                            "korean": "형태"
+                        },
+                        {
+                            "kanji": "支持する",
+                            "hiragana": "しじする",
+                            "pronunciation": "시지스루",
+                            "korean": "지지하다"
+                        },
+                        {
+                            "kanji": "管理総合",
+                            "hiragana": "かんりそうごう",
+                            "pronunciation": "칸리소우고우",
+                            "korean": "관리종합"
+                        },
+                        {
+                            "kanji": "理事",
+                            "hiragana": "りじ",
+                            "pronunciation": "리지",
+                            "korean": "이사"
+                        },
+                        {
+                            "kanji": "先日",
+                            "hiragana": "せんじつ",
+                            "pronunciation": "센지츠",
+                            "korean": "일전"
+                        },
+                        {
+                            "kanji": "住民",
+                            "hiragana": "じゅうみん",
+                            "pronunciation": "쥬우민",
+                            "korean": "주민"
+                        },
+                        {
+                            "kanji": "総会",
+                            "hiragana": "そうかい",
+                            "pronunciation": "소우카이",
+                            "korean": "총회"
+                        },
+                        {
+                            "kanji": "提案",
+                            "hiragana": "ていあん",
+                            "pronunciation": "테이안",
+                            "korean": "제안"
+                        },
+                        {
+                            "kanji": "逃げる",
+                            "hiragana": "にげる",
+                            "pronunciation": "니게루",
+                            "korean": "도망치다"
+                        },
+                        {
+                            "kanji": "判断",
+                            "hiragana": "はんだん",
+                            "pronunciation": "한단",
+                            "korean": "판단"
+                        },
+                        {
+                            "kanji": "教育上",
+                            "hiragana": "きょういくじょう",
+                            "pronunciation": "쿄우이쿠죠우",
+                            "korean": "교육상"
+                        },
+                        {
+                            "kanji": "困る",
+                            "hiragana": "こまる",
+                            "pronunciation": "코마루",
+                            "korean": "난처해지다"
+                        },
+                        {
+                            "kanji": "年配",
+                            "hiragana": "ねんぱい",
+                            "pronunciation": "넨파이",
+                            "korean": "지긋한 나이"
+                        },
+                        {
+                            "kanji": "返っていない",
+                            "hiragana": "かえっていない",
+                            "pronunciation": "카엣테이나이",
+                            "korean": "돌아오지 않다"
+                        },
+                        {
+                            "kanji": "意見",
+                            "hiragana": "いけん",
+                            "pronunciation": "이켄",
+                            "korean": "의견"
+                        },
+                        {
+                            "kanji": "一致する",
+                            "hiragana": "いっちする",
+                            "pronunciation": "잇치스루",
+                            "korean": "일치하다"
+                        },
+                        {
+                            "kanji": "告知",
+                            "hiragana": "こくち",
+                            "pronunciation": "코쿠치",
+                            "korean": "통지"
+                        },
+                        {
+                            "kanji": "世の中",
+                            "hiragana": "よのなか",
+                            "pronunciation": "요노나카",
+                            "korean": "세상"
+                        },
+                        {
+                            "kanji": "理解に苦しむ",
+                            "hiragana": "りかいにくるしむ",
+                            "pronunciation": "리카이니쿠루시무",
+                            "korean": "이해하기 힘들다"
+                        },
+                        {
+                            "kanji": "禁止",
+                            "hiragana": "きんし",
+                            "pronunciation": "킨시",
+                            "korean": "금지"
+                        },
+                        {
+                            "kanji": "防犯",
+                            "hiragana": "ぼうはん",
+                            "pronunciation": "보우한",
+                            "korean": "방범"
+                        },
+                        {
+                            "kanji": "賛成する",
+                            "hiragana": "さんせいする",
+                            "pronunciation": "산세이스루",
+                            "korean": "찬성하다"
+                        },
+                        {
+                            "kanji": "~べき",
+                            "pronunciation": "~베키",
+                            "korean": "~해야 함"
+                        },
+                        {
+                            "kanji": "反対",
+                            "hiragana": "はんだい",
+                            "pronunciation": "한다이",
+                            "korean": "반대"
+                        },
+                        {
+                            "kanji": "近所",
+                            "hiragana": "きんじよ",
+                            "pronunciation": "킨지요",
+                            "korean": "근처"
+                        },
+                        {
+                            "kanji": "付き合う",
+                            "hiragana": "つきあう",
+                            "pronunciation": "츠키아우",
+                            "korean": "사귀다"
+                        },
+                        {
+                            "kanji": "昔",
+                            "hiragana": "むかし",
+                            "pronunciation": "무카시",
+                            "korean": "옛날"
+                        },
+                        {
+                            "kanji": "変わる",
+                            "hiragana": "かわる",
+                            "pronunciation": "카와루",
+                            "korean": "변하다"
+                        },
+                        {
+                            "kanji": "大変",
+                            "hiragana": "たいへん",
+                            "pronunciation": "타이헨",
+                            "korean": "받아들이다"
+                        },
+                        {
+                            "kanji": "最近",
+                            "hiragana": "さいきん",
+                            "pronunciation": "사이킨",
+                            "korean": "최근"
+                        },
+                        {
+                            "kanji": "親たち",
+                            "hiragana": "おやたち",
+                            "pronunciation": "오야타치",
+                            "korean": "부모들"
+                        },
+                        {
+                            "kanji": "礼儀",
+                            "hiragana": "れいぎ",
+                            "pronunciation": "레이기",
+                            "korean": "예의"
+                        },
+                        {
+                            "kanji": "あきれる",
+                            "pronunciation": "아키레루",
+                            "korean": "놀라다"
+                        }
+                    ]
+                },
+                {
+                    "title": "3回",
+                    "subtitle": "短文 7 ~ 9 課",
+                    "tango": [
+                        {
+                            "kanji": "no data",
+                            "hiragana": "no data",
+                            "pronunciation": "no data",
+                            "korean": "no data"
+                        }
+                    ]
+                },
+                {
+                    "title": "4回",
+                    "subtitle": "短文 10 ~ 12 課",
+                    "tango": [
+                        {
+                            "kanji": "no data",
+                            "hiragana": "no data",
+                            "pronunciation": "no data",
+                            "korean": "no data"
+                        }
+                    ]
+                },
+                {
+                    "title": "5回",
+                    "subtitle": "短文 13 ~ 16 課",
+                    "tango": [
+                        {
+                            "kanji": "no data",
+                            "hiragana": "no data",
+                            "pronunciation": "no data",
+                            "korean": "no data"
+                        }
+                    ]
+                },
+                {
+                    "title": "6回",
+                    "subtitle": "中文 1 ~ 2 課",
+                    "tango": [
+                        {
+                            "kanji": "生徒",
+                            "hiragana": "せいと",
+                            "pronunciation": "세이토",
+                            "korean": "학생"
+                        },
+                        {
+                            "kanji": "文法",
+                            "hiragana": "ぶんぽう",
+                            "pronunciation": "분포우",
+                            "korean": "문법"
+                        },
+                        {
+                            "kanji": "会話",
+                            "hiragana": "かいわ",
+                            "pronunciation": "카이와",
+                            "korean": "회화"
+                        },
+                        {
+                            "kanji": "特に",
+                            "hiragana": "とくに",
+                            "pronunciation": "토쿠니",
+                            "korean": "특히"
+                        },
+                        {
+                            "kanji": "文字",
+                            "hiragana": "もじ",
+                            "pronunciation": "모지",
+                            "korean": "문자"
+                        },
+                        {
+                            "kanji": "～たばかりの",
+                            "pronunciation": "～타바카리노",
+                            "korean": "이제 막 ~ 한 "
+                        },
+                        {
+                            "kanji": "困る",
+                            "hiragana": "こまる",
+                            "pronunciation": "코마루",
+                            "korean": "곤란하다"
+                        },
+                        {
+                            "kanji": "できるだけ",
+                            "pronunciation": "데키루다케",
+                            "korean": "가능한 한"
+                        },
+                        {
+                            "kanji": "作成",
+                            "hiragana": "さくせい",
+                            "pronunciation": "사쿠세이",
+                            "korean": "작성"
+                        },
+                        {
+                            "kanji": "資料",
+                            "hiragana": "しりょう",
+                            "pronunciation": "시료우",
+                            "korean": "자료"
+                        },
+                        {
+                            "kanji": "とにかく",
+                            "hiragana": "とにかく",
+                            "pronunciation": "토니카쿠",
+                            "korean": "어쨌든"
+                        },
+                        {
+                            "kanji": "単語",
+                            "hiragana": "たんご",
+                            "pronunciation": "탄고",
+                            "korean": "단어"
+                        },
+                        {
+                            "kanji": "無理",
+                            "hiragana": "むり",
+                            "pronunciation": "무리",
+                            "korean": "무리"
+                        },
+                        {
+                            "kanji": "言語",
+                            "hiragana": "げんご",
+                            "pronunciation": "겐고",
+                            "korean": "언어"
+                        },
+                        {
+                            "kanji": "技能",
+                            "hiragana": "ぎのう",
+                            "pronunciation": "기노우",
+                            "korean": "기능"
+                        },
+                        {
+                            "kanji": "同時",
+                            "hiragana": "どうじ",
+                            "pronunciation": "도우지",
+                            "korean": "동시"
+                        },
+                        {
+                            "kanji": "～によって",
+                            "pronunciation": "～니욧테",
+                            "korean": "~따라서"
+                        },
+                        {
+                            "kanji": "練習",
+                            "hiragana": "れんしゅう",
+                            "pronunciation": "렌슈우",
+                            "korean": "연습"
+                        },
+                        {
+                            "kanji": "学習",
+                            "hiragana": "がくしゅう",
+                            "pronunciation": "가쿠슈우",
+                            "korean": "학습"
+                        },
+                        {
+                            "kanji": "基礎",
+                            "hiragana": "きそ",
+                            "pronunciation": "키소",
+                            "korean": "기초"
+                        },
+                        {
+                            "kanji": "ちゃんと",
+                            "pronunciation": "챤토",
+                            "korean": "제대로"
+                        },
+                        {
+                            "kanji": "自然に",
+                            "hiragana": "しぜんに",
+                            "pronunciation": "시젠니",
+                            "korean": "자연스럽게"
+                        },
+                        {
+                            "kanji": "聞き取る",
+                            "hiragana": "ききとる",
+                            "pronunciation": "키키토루",
+                            "korean": "알아듣다"
+                        },
+                        {
+                            "kanji": "相当",
+                            "hiragana": "そうとう",
+                            "pronunciation": "소우토우",
+                            "korean": "상당히"
+                        },
+                        {
+                            "kanji": "場合",
+                            "hiragana": "ばあい",
+                            "pronunciation": "바아이",
+                            "korean": "경우"
+                        },
+                        {
+                            "kanji": "初め",
+                            "hiragana": "はじめ",
+                            "pronunciation": "하지메",
+                            "korean": "처음"
+                        },
+                        {
+                            "kanji": "～うちに",
+                            "pronunciation": "～우치니",
+                            "korean": "~동안에, ~사이에"
+                        },
+                        {
+                            "kanji": "焦る",
+                            "hiragana": "あせる",
+                            "pronunciation": "아세루",
+                            "korean": "초조해지다"
+                        },
+                        {
+                            "kanji": "酵素",
+                            "hiragana": "こうそ",
+                            "pronunciation": "코우소",
+                            "korean": "효소"
+                        },
+                        {
+                            "kanji": "取り上げる",
+                            "hiragana": "とりあげる",
+                            "pronunciation": "토리아게루",
+                            "korean": "거론하다"
+                        },
+                        {
+                            "kanji": "話題",
+                            "hiragana": "わだい",
+                            "pronunciation": "와다이",
+                            "korean": "화제"
+                        },
+                        {
+                            "kanji": "注目",
+                            "hiragana": "ちゅうもく",
+                            "pronunciation": "츄우모쿠",
+                            "korean": "주목"
+                        },
+                        {
+                            "kanji": "健康",
+                            "hiragana": "けんこう",
+                            "pronunciation": "켄코우",
+                            "korean": "건강"
+                        },
+                        {
+                            "kanji": "美容",
+                            "hiragana": "びよう",
+                            "pronunciation": "비요우",
+                            "korean": "미용"
+                        },
+                        {
+                            "kanji": "役立つ",
+                            "hiragana": "やくだつ",
+                            "pronunciation": "야쿠다츠",
+                            "korean": "도움이 되다"
+                        },
+                        {
+                            "kanji": "具体的",
+                            "hiragana": "ぐたいでき",
+                            "pronunciation": "구타이데키",
+                            "korean": "구체적"
+                        },
+                        {
+                            "kanji": "働き",
+                            "hiragana": "はたらき",
+                            "pronunciation": "하타라키",
+                            "korean": "기능"
+                        },
+                        {
+                            "kanji": "意外と",
+                            "hiragana": "いがいと",
+                            "pronunciation": "이가이토",
+                            "korean": "의외로"
+                        },
+                        {
+                            "kanji": "消化",
+                            "hiragana": "しょうか",
+                            "pronunciation": "쇼우카",
+                            "korean": "소화"
+                        },
+                        {
+                            "kanji": "助ける",
+                            "hiragana": "たすける",
+                            "pronunciation": "타스케루",
+                            "korean": "돕다"
+                        },
+                        {
+                            "kanji": "新陳代謝",
+                            "hiragana": "しんちんたいしや",
+                            "pronunciation": "신친타이시야",
+                            "korean": "신진대사"
+                        },
+                        {
+                            "kanji": "血液",
+                            "hiragana": "けつえき",
+                            "pronunciation": "케츠에키",
+                            "korean": "혈액"
+                        },
+                        {
+                            "kanji": "循環",
+                            "hiragana": "じゅんかん",
+                            "pronunciation": "쥰칸",
+                            "korean": "순환"
+                        },
+                        {
+                            "kanji": "重要",
+                            "hiragana": "じゅうよう",
+                            "pronunciation": "쥬우요우",
+                            "korean": "중요"
+                        },
+                        {
+                            "kanji": "役割",
+                            "hiragana": "やくわり",
+                            "pronunciation": "야쿠와리",
+                            "korean": "역할"
+                        },
+                        {
+                            "kanji": "普段",
+                            "hiragana": "ふだん",
+                            "pronunciation": "후단",
+                            "korean": "평소"
+                        },
+                        {
+                            "kanji": "何気なく",
+                            "hiragana": "なにげなく",
+                            "pronunciation": "나니게나쿠",
+                            "korean": "아무렇지도 않게"
+                        },
+                        {
+                            "kanji": "エネルギー",
+                            "pronunciation": "에네루기-",
+                            "korean": "에너지"
+                        },
+                        {
+                            "kanji": "分解",
+                            "hiragana": "ぶんかい",
+                            "pronunciation": "분카이",
+                            "korean": "분해"
+                        },
+                        {
+                            "kanji": "吸収",
+                            "hiragana": "きゅうしゅう",
+                            "pronunciation": "큐우슈우",
+                            "korean": "흡수"
+                        },
+                        {
+                            "kanji": "栄養",
+                            "hiragana": "えいよう",
+                            "pronunciation": "에이요우",
+                            "korean": "영양"
+                        },
+                        {
+                            "kanji": "腸内",
+                            "hiragana": "ちょうない",
+                            "pronunciation": "쵸우나이",
+                            "korean": "장 속"
+                        },
+                        {
+                            "kanji": "環境",
+                            "hiragana": "かんきょう",
+                            "pronunciation": "칸쿄우",
+                            "korean": "환경"
+                        },
+                        {
+                            "kanji": "体重",
+                            "hiragana": "たいじゅう",
+                            "pronunciation": "타이쥬우",
+                            "korean": "체중"
+                        },
+                        {
+                            "kanji": "取り入れる",
+                            "hiragana": "とりいれる",
+                            "pronunciation": "토리이레루",
+                            "korean": "섭취하다"
+                        },
+                        {
+                            "kanji": "～どころか",
+                            "pronunciation": "～도코로카",
+                            "korean": "~는 커녕"
+                        },
+                        {
+                            "kanji": "かえって",
+                            "pronunciation": "카엣테",
+                            "korean": "오히려"
+                        },
+                        {
+                            "kanji": "理解",
+                            "hiragana": "りかい",
+                            "pronunciation": "리카이",
+                            "korean": "이해"
+                        },
+                        {
+                            "kanji": "超える",
+                            "hiragana": "こえる",
+                            "pronunciation": "코에루",
+                            "korean": "초과하다"
+                        },
+                        {
+                            "kanji": "～さえ～ば",
+                            "pronunciation": "～사에～바",
+                            "korean": "~만 ~하면"
+                        },
+                        {
+                            "kanji": "可能性",
+                            "hiragana": "かのうせい",
+                            "pronunciation": "카노우세이",
+                            "korean": "가능성"
+                        },
+                        {
+                            "kanji": "なぜなら",
+                            "pronunciation": "나제나라",
+                            "korean": "왜냐하면"
+                        },
+                        {
+                            "kanji": "甘味料",
+                            "hiragana": "かんみりょう",
+                            "pronunciation": "칸미료우",
+                            "korean": "감미료"
+                        },
+                        {
+                            "kanji": "～た上で",
+                            "hiragana": "～たうえで",
+                            "pronunciation": "～타우에데",
+                            "korean": "~한 이후에"
+                        },
+                        {
+                            "kanji": "得る",
+                            "hiragana": "える",
+                            "pronunciation": "에루",
+                            "korean": "얻다"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
