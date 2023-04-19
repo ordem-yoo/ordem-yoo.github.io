@@ -2,7 +2,7 @@
     "data": [
         {
             "rank": "N5",
-            "kanjis": [
+            "contents": [
                 {
                     "kanji": "間",
                     "onreading": "사이",
@@ -522,7 +522,7 @@
         },
         {
             "rank": "N4",
-            "kanjis": [
+            "contents": [
                 {
                     "kanji": "家",
                     "onreading": "집",
@@ -1527,7 +1527,7 @@
         },
         {
             "rank": "N3",
-            "kanjis": [
+            "contents": [
                 {
                     "kanji": "加",
                     "onreading": "더할",
@@ -3232,11 +3232,2012 @@
         },
         {
             "rank": "N2",
-            "kanjis": []
+            "contents": [
+                {
+                    "kanji": "刻",
+                    "onreading": "새길",
+                    "kunreading": "각"
+                },
+                {
+                    "kanji": "覚",
+                    "onreading": "깨달을",
+                    "kunreading": "각"
+                },
+                {
+                    "kanji": "看",
+                    "onreading": "볼",
+                    "kunreading": "간"
+                },
+                {
+                    "kanji": "感",
+                    "onreading": "느낄",
+                    "kunreading": "감"
+                },
+                {
+                    "kanji": "降",
+                    "onreading": "내릴",
+                    "kunreading": "강"
+                },
+                {
+                    "kanji": "講",
+                    "onreading": "익힐",
+                    "kunreading": "강"
+                },
+                {
+                    "kanji": "改",
+                    "onreading": "고칠",
+                    "kunreading": "개"
+                },
+                {
+                    "kanji": "乾",
+                    "onreading": "마를",
+                    "kunreading": "건"
+                },
+                {
+                    "kanji": "健",
+                    "onreading": "튼튼할",
+                    "kunreading": "건"
+                },
+                {
+                    "kanji": "結",
+                    "onreading": "맺을",
+                    "kunreading": "결"
+                },
+                {
+                    "kanji": "境",
+                    "onreading": "지경",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "競",
+                    "onreading": "겨룰",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "敬",
+                    "onreading": "공경할",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "警",
+                    "onreading": "경계할",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "階",
+                    "onreading": "섬돌",
+                    "kunreading": "계"
+                },
+                {
+                    "kanji": "庫",
+                    "onreading": "곳집",
+                    "kunreading": "고"
+                },
+                {
+                    "kanji": "恐",
+                    "onreading": "두려울",
+                    "kunreading": "공"
+                },
+                {
+                    "kanji": "果",
+                    "onreading": "과실",
+                    "kunreading": "과"
+                },
+                {
+                    "kanji": "課",
+                    "onreading": "과정",
+                    "kunreading": "과"
+                },
+                {
+                    "kanji": "鉱",
+                    "onreading": "쇳돌",
+                    "kunreading": "광"
+                },
+                {
+                    "kanji": "求",
+                    "onreading": "구할",
+                    "kunreading": "구"
+                },
+                {
+                    "kanji": "球",
+                    "onreading": "공",
+                    "kunreading": "구"
+                },
+                {
+                    "kanji": "構",
+                    "onreading": "얽을",
+                    "kunreading": "구"
+                },
+                {
+                    "kanji": "規",
+                    "onreading": "법",
+                    "kunreading": "규"
+                },
+                {
+                    "kanji": "極",
+                    "onreading": "다할",
+                    "kunreading": "극"
+                },
+                {
+                    "kanji": "劇",
+                    "onreading": "심할",
+                    "kunreading": "극"
+                },
+                {
+                    "kanji": "勤",
+                    "onreading": "부지런할",
+                    "kunreading": "근"
+                },
+                {
+                    "kanji": "禁",
+                    "onreading": "금할",
+                    "kunreading": "금"
+                },
+                {
+                    "kanji": "給",
+                    "onreading": "넉넉할",
+                    "kunreading": "급"
+                },
+                {
+                    "kanji": "記",
+                    "onreading": "기록할",
+                    "kunreading": "기"
+                },
+                {
+                    "kanji": "基",
+                    "onreading": "터",
+                    "kunreading": "기"
+                },
+                {
+                    "kanji": "寄",
+                    "onreading": "부칠",
+                    "kunreading": "기"
+                },
+                {
+                    "kanji": "技",
+                    "onreading": "재주",
+                    "kunreading": "기"
+                },
+                {
+                    "kanji": "難",
+                    "onreading": "어려울",
+                    "kunreading": "난"
+                },
+                {
+                    "kanji": "農",
+                    "onreading": "농사",
+                    "kunreading": "농"
+                },
+                {
+                    "kanji": "断",
+                    "onreading": "끊을",
+                    "kunreading": "단"
+                },
+                {
+                    "kanji": "担",
+                    "onreading": "멜",
+                    "kunreading": "담"
+                },
+                {
+                    "kanji": "帯",
+                    "onreading": "띠",
+                    "kunreading": "대"
+                },
+                {
+                    "kanji": "途",
+                    "onreading": "길",
+                    "kunreading": "도"
+                },
+                {
+                    "kanji": "倒",
+                    "onreading": "넘어질",
+                    "kunreading": "도"
+                },
+                {
+                    "kanji": "盗",
+                    "onreading": "훔칠",
+                    "kunreading": "도"
+                },
+                {
+                    "kanji": "独",
+                    "onreading": "홀로",
+                    "kunreading": "독"
+                },
+                {
+                    "kanji": "突",
+                    "onreading": "갑자기",
+                    "kunreading": "돌"
+                },
+                {
+                    "kanji": "童",
+                    "onreading": "아이",
+                    "kunreading": "동"
+                },
+                {
+                    "kanji": "得",
+                    "onreading": "얻을",
+                    "kunreading": "득"
+                },
+                {
+                    "kanji": "灯",
+                    "onreading": "등잔",
+                    "kunreading": "등"
+                },
+                {
+                    "kanji": "等",
+                    "onreading": "가지런할",
+                    "kunreading": "등"
+                },
+                {
+                    "kanji": "乱",
+                    "onreading": "어지러울",
+                    "kunreading": "란"
+                },
+                {
+                    "kanji": "練",
+                    "onreading": "익힐",
+                    "kunreading": "련"
+                },
+                {
+                    "kanji": "領",
+                    "onreading": "거느릴",
+                    "kunreading": "령"
+                },
+                {
+                    "kanji": "零",
+                    "onreading": "떨어질",
+                    "kunreading": "령"
+                },
+                {
+                    "kanji": "頼",
+                    "onreading": "힘입을",
+                    "kunreading": "뢰"
+                },
+                {
+                    "kanji": "了",
+                    "onreading": "마칠",
+                    "kunreading": "료"
+                },
+                {
+                    "kanji": "留",
+                    "onreading": "머무를",
+                    "kunreading": "류"
+                },
+                {
+                    "kanji": "類",
+                    "onreading": "무리",
+                    "kunreading": "류"
+                },
+                {
+                    "kanji": "律",
+                    "onreading": "법",
+                    "kunreading": "률"
+                },
+                {
+                    "kanji": "満",
+                    "onreading": "찰",
+                    "kunreading": "만"
+                },
+                {
+                    "kanji": "望",
+                    "onreading": "바랄",
+                    "kunreading": "망"
+                },
+                {
+                    "kanji": "武",
+                    "onreading": "굳셀",
+                    "kunreading": "무"
+                },
+                {
+                    "kanji": "務",
+                    "onreading": "힘쓸",
+                    "kunreading": "무"
+                },
+                {
+                    "kanji": "泊",
+                    "onreading": "머무를",
+                    "kunreading": "박"
+                },
+                {
+                    "kanji": "放",
+                    "onreading": "놓을",
+                    "kunreading": "방"
+                },
+                {
+                    "kanji": "防",
+                    "onreading": "막을",
+                    "kunreading": "방"
+                },
+                {
+                    "kanji": "犯",
+                    "onreading": "범할",
+                    "kunreading": "범"
+                },
+                {
+                    "kanji": "報",
+                    "onreading": "갚을",
+                    "kunreading": "보"
+                },
+                {
+                    "kanji": "復",
+                    "onreading": "회복할, 다시",
+                    "kunreading": "복, 부"
+                },
+                {
+                    "kanji": "複",
+                    "onreading": "겹칠",
+                    "kunreading": "복"
+                },
+                {
+                    "kanji": "封",
+                    "onreading": "봉할",
+                    "kunreading": "봉"
+                },
+                {
+                    "kanji": "負",
+                    "onreading": "질",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "婦",
+                    "onreading": "며느리",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "批",
+                    "onreading": "비평할",
+                    "kunreading": "비"
+                },
+                {
+                    "kanji": "備",
+                    "onreading": "갖출",
+                    "kunreading": "비"
+                },
+                {
+                    "kanji": "査",
+                    "onreading": "조사",
+                    "kunreading": "사"
+                },
+                {
+                    "kanji": "師",
+                    "onreading": "스승",
+                    "kunreading": "사"
+                },
+                {
+                    "kanji": "散",
+                    "onreading": "흩을",
+                    "kunreading": "산"
+                },
+                {
+                    "kanji": "商",
+                    "onreading": "장사",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "象",
+                    "onreading": "코끼리",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "賞",
+                    "onreading": "상줄",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "状",
+                    "onreading": "형상",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "常",
+                    "onreading": "항상",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "想",
+                    "onreading": "생각할",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "署",
+                    "onreading": "관청",
+                    "kunreading": "서"
+                },
+                {
+                    "kanji": "緒",
+                    "onreading": "실마리",
+                    "kunreading": "서"
+                },
+                {
+                    "kanji": "船",
+                    "onreading": "배",
+                    "kunreading": "선"
+                },
+                {
+                    "kanji": "設",
+                    "onreading": "베풀",
+                    "kunreading": "설"
+                },
+                {
+                    "kanji": "税",
+                    "onreading": "조세",
+                    "kunreading": "세"
+                },
+                {
+                    "kanji": "消",
+                    "onreading": "사라질",
+                    "kunreading": "소"
+                },
+                {
+                    "kanji": "掃",
+                    "onreading": "쓸",
+                    "kunreading": "소"
+                },
+                {
+                    "kanji": "速",
+                    "onreading": "빠를",
+                    "kunreading": "속"
+                },
+                {
+                    "kanji": "損",
+                    "onreading": "덜",
+                    "kunreading": "손"
+                },
+                {
+                    "kanji": "率",
+                    "onreading": "거느릴, 비율",
+                    "kunreading": "솔,률"
+                },
+                {
+                    "kanji": "授",
+                    "onreading": "줄",
+                    "kunreading": "수"
+                },
+                {
+                    "kanji": "収",
+                    "onreading": "거둘",
+                    "kunreading": "수"
+                },
+                {
+                    "kanji": "修",
+                    "onreading": "닦을",
+                    "kunreading": "수"
+                },
+                {
+                    "kanji": "純",
+                    "onreading": "순수할",
+                    "kunreading": "순"
+                },
+                {
+                    "kanji": "術",
+                    "onreading": "꾀",
+                    "kunreading": "술"
+                },
+                {
+                    "kanji": "湿",
+                    "onreading": "축축할",
+                    "kunreading": "습"
+                },
+                {
+                    "kanji": "承",
+                    "onreading": "받들",
+                    "kunreading": "승"
+                },
+                {
+                    "kanji": "勝",
+                    "onreading": "이길",
+                    "kunreading": "승"
+                },
+                {
+                    "kanji": "植",
+                    "onreading": "심을",
+                    "kunreading": "식"
+                },
+                {
+                    "kanji": "識",
+                    "onreading": "알",
+                    "kunreading": "식"
+                },
+                {
+                    "kanji": "深",
+                    "onreading": "깊을",
+                    "kunreading": "심"
+                },
+                {
+                    "kanji": "児",
+                    "onreading": "아이",
+                    "kunreading": "아"
+                },
+                {
+                    "kanji": "液",
+                    "onreading": "진",
+                    "kunreading": "액"
+                },
+                {
+                    "kanji": "額",
+                    "onreading": "이마",
+                    "kunreading": "액"
+                },
+                {
+                    "kanji": "陽",
+                    "onreading": "볕",
+                    "kunreading": "양"
+                },
+                {
+                    "kanji": "漁",
+                    "onreading": "고기잡을",
+                    "kunreading": "어"
+                },
+                {
+                    "kanji": "域",
+                    "onreading": "지경",
+                    "kunreading": "역"
+                },
+                {
+                    "kanji": "延",
+                    "onreading": "끌",
+                    "kunreading": "연"
+                },
+                {
+                    "kanji": "煙",
+                    "onreading": "연기",
+                    "kunreading": "연"
+                },
+                {
+                    "kanji": "演",
+                    "onreading": "넓힐",
+                    "kunreading": "연"
+                },
+                {
+                    "kanji": "然",
+                    "onreading": "그러할",
+                    "kunreading": "연"
+                },
+                {
+                    "kanji": "偶",
+                    "onreading": "짝",
+                    "kunreading": "우"
+                },
+                {
+                    "kanji": "郵",
+                    "onreading": "역참",
+                    "kunreading": "우"
+                },
+                {
+                    "kanji": "優",
+                    "onreading": "넉넉할",
+                    "kunreading": "우"
+                },
+                {
+                    "kanji": "違",
+                    "onreading": "어길",
+                    "kunreading": "위"
+                },
+                {
+                    "kanji": "衣",
+                    "onreading": "옷",
+                    "kunreading": "의"
+                },
+                {
+                    "kanji": "議",
+                    "onreading": "의논할",
+                    "kunreading": "의"
+                },
+                {
+                    "kanji": "印",
+                    "onreading": "도장",
+                    "kunreading": "인"
+                },
+                {
+                    "kanji": "認",
+                    "onreading": "알",
+                    "kunreading": "인"
+                },
+                {
+                    "kanji": "資",
+                    "onreading": "재물",
+                    "kunreading": "자"
+                },
+                {
+                    "kanji": "雑",
+                    "onreading": "섞일",
+                    "kunreading": "잡"
+                },
+                {
+                    "kanji": "装",
+                    "onreading": "꾸밀",
+                    "kunreading": "장"
+                },
+                {
+                    "kanji": "蔵",
+                    "onreading": "감출",
+                    "kunreading": "장"
+                },
+                {
+                    "kanji": "張",
+                    "onreading": "베풀",
+                    "kunreading": "장"
+                },
+                {
+                    "kanji": "争",
+                    "onreading": "다툴",
+                    "kunreading": "쟁"
+                },
+                {
+                    "kanji": "貯",
+                    "onreading": "쌓을",
+                    "kunreading": "저"
+                },
+                {
+                    "kanji": "積",
+                    "onreading": "쌓을",
+                    "kunreading": "적"
+                },
+                {
+                    "kanji": "績",
+                    "onreading": "길쌈할",
+                    "kunreading": "적"
+                },
+                {
+                    "kanji": "適",
+                    "onreading": "맞을",
+                    "kunreading": "적"
+                },
+                {
+                    "kanji": "戦",
+                    "onreading": "싸울",
+                    "kunreading": "전"
+                },
+                {
+                    "kanji": "専",
+                    "onreading": "오로지",
+                    "kunreading": "전"
+                },
+                {
+                    "kanji": "展",
+                    "onreading": "펼",
+                    "kunreading": "전"
+                },
+                {
+                    "kanji": "情",
+                    "onreading": "뜻",
+                    "kunreading": "정"
+                },
+                {
+                    "kanji": "整",
+                    "onreading": "가지런할",
+                    "kunreading": "정"
+                },
+                {
+                    "kanji": "頂",
+                    "onreading": "정수리",
+                    "kunreading": "정"
+                },
+                {
+                    "kanji": "停",
+                    "onreading": "머무를",
+                    "kunreading": "정"
+                },
+                {
+                    "kanji": "程",
+                    "onreading": "단위",
+                    "kunreading": "정"
+                },
+                {
+                    "kanji": "製",
+                    "onreading": "지을",
+                    "kunreading": "제"
+                },
+                {
+                    "kanji": "操",
+                    "onreading": "잡을",
+                    "kunreading": "조"
+                },
+                {
+                    "kanji": "調",
+                    "onreading": "고를",
+                    "kunreading": "조"
+                },
+                {
+                    "kanji": "尊",
+                    "onreading": "높을",
+                    "kunreading": "존"
+                },
+                {
+                    "kanji": "卒",
+                    "onreading": "군사",
+                    "kunreading": "졸"
+                },
+                {
+                    "kanji": "種",
+                    "onreading": "씨",
+                    "kunreading": "종"
+                },
+                {
+                    "kanji": "周",
+                    "onreading": "두루",
+                    "kunreading": "주"
+                },
+                {
+                    "kanji": "準",
+                    "onreading": "법도",
+                    "kunreading": "준"
+                },
+                {
+                    "kanji": "蒸",
+                    "onreading": "찔",
+                    "kunreading": "증"
+                },
+                {
+                    "kanji": "増",
+                    "onreading": "더할",
+                    "kunreading": "증"
+                },
+                {
+                    "kanji": "職",
+                    "onreading": "벼슬",
+                    "kunreading": "직"
+                },
+                {
+                    "kanji": "察",
+                    "onreading": "살필",
+                    "kunreading": "찰"
+                },
+                {
+                    "kanji": "清",
+                    "onreading": "맑을",
+                    "kunreading": "청"
+                },
+                {
+                    "kanji": "測",
+                    "onreading": "잴",
+                    "kunreading": "측"
+                },
+                {
+                    "kanji": "層",
+                    "onreading": "층",
+                    "kunreading": "층"
+                },
+                {
+                    "kanji": "値",
+                    "onreading": "값",
+                    "kunreading": "치"
+                },
+                {
+                    "kanji": "置",
+                    "onreading": "둘",
+                    "kunreading": "치"
+                },
+                {
+                    "kanji": "則",
+                    "onreading": "법칙",
+                    "kunreading": "칙"
+                },
+                {
+                    "kanji": "快",
+                    "onreading": "쾌할",
+                    "kunreading": "쾌"
+                },
+                {
+                    "kanji": "炭",
+                    "onreading": "숯",
+                    "kunreading": "탄"
+                },
+                {
+                    "kanji": "筒",
+                    "onreading": "대통",
+                    "kunreading": "통"
+                },
+                {
+                    "kanji": "退",
+                    "onreading": "물러날",
+                    "kunreading": "퇴"
+                },
+                {
+                    "kanji": "破",
+                    "onreading": "깨뜨릴",
+                    "kunreading": "파"
+                },
+                {
+                    "kanji": "判",
+                    "onreading": "판단할",
+                    "kunreading": "판"
+                },
+                {
+                    "kanji": "板",
+                    "onreading": "널빤지",
+                    "kunreading": "판"
+                },
+                {
+                    "kanji": "片",
+                    "onreading": "조각",
+                    "kunreading": "편"
+                },
+                {
+                    "kanji": "編",
+                    "onreading": "엮을",
+                    "kunreading": "편"
+                },
+                {
+                    "kanji": "評",
+                    "onreading": "평론할",
+                    "kunreading": "평"
+                },
+                {
+                    "kanji": "布",
+                    "onreading": "베",
+                    "kunreading": "포"
+                },
+                {
+                    "kanji": "標",
+                    "onreading": "표할",
+                    "kunreading": "표"
+                },
+                {
+                    "kanji": "筆",
+                    "onreading": "붓",
+                    "kunreading": "필"
+                },
+                {
+                    "kanji": "害",
+                    "onreading": "해칠",
+                    "kunreading": "해"
+                },
+                {
+                    "kanji": "婚",
+                    "onreading": "혼인할",
+                    "kunreading": "혼"
+                },
+                {
+                    "kanji": "混",
+                    "onreading": "섞을",
+                    "kunreading": "혼"
+                },
+                {
+                    "kanji": "紅",
+                    "onreading": "붉을",
+                    "kunreading": "홍"
+                },
+                {
+                    "kanji": "貨",
+                    "onreading": "재화",
+                    "kunreading": "화"
+                },
+                {
+                    "kanji": "拡",
+                    "onreading": "넓힐",
+                    "kunreading": "확"
+                },
+                {
+                    "kanji": "確",
+                    "onreading": "굳을",
+                    "kunreading": "확"
+                },
+                {
+                    "kanji": "換",
+                    "onreading": "바꿀",
+                    "kunreading": "환"
+                },
+                {
+                    "kanji": "況",
+                    "onreading": "상황",
+                    "kunreading": "황"
+                },
+                {
+                    "kanji": "効",
+                    "onreading": "본받을",
+                    "kunreading": "효"
+                },
+                {
+                    "kanji": "候",
+                    "onreading": "기후",
+                    "kunreading": "후"
+                },
+                {
+                    "kanji": "簡",
+                    "onreading": "간략할",
+                    "kunreading": "간"
+                },
+                {
+                    "kanji": "康",
+                    "onreading": "편안할",
+                    "kunreading": "강"
+                },
+                {
+                    "kanji": "介",
+                    "onreading": "끼일",
+                    "kunreading": "개"
+                },
+                {
+                    "kanji": "皆",
+                    "onreading": "다",
+                    "kunreading": "개"
+                },
+                {
+                    "kanji": "検",
+                    "onreading": "검사할",
+                    "kunreading": "검"
+                },
+                {
+                    "kanji": "傾",
+                    "onreading": "기울",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "更",
+                    "onreading": "고칠",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "耕",
+                    "onreading": "밭갈",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "硬",
+                    "onreading": "굳을",
+                    "kunreading": "경"
+                },
+                {
+                    "kanji": "届",
+                    "onreading": "이를",
+                    "kunreading": "계"
+                },
+                {
+                    "kanji": "故",
+                    "onreading": "옛",
+                    "kunreading": "고"
+                },
+                {
+                    "kanji": "枯",
+                    "onreading": "마를",
+                    "kunreading": "고"
+                },
+                {
+                    "kanji": "雇",
+                    "onreading": "품팔",
+                    "kunreading": "고"
+                },
+                {
+                    "kanji": "掛",
+                    "onreading": "걸",
+                    "kunreading": "괘"
+                },
+                {
+                    "kanji": "供",
+                    "onreading": "이바지할",
+                    "kunreading": "공"
+                },
+                {
+                    "kanji": "管",
+                    "onreading": "대롱",
+                    "kunreading": "관"
+                },
+                {
+                    "kanji": "較",
+                    "onreading": "견줄",
+                    "kunreading": "교"
+                },
+                {
+                    "kanji": "橋",
+                    "onreading": "다리",
+                    "kunreading": "교"
+                },
+                {
+                    "kanji": "郊",
+                    "onreading": "성밖",
+                    "kunreading": "교"
+                },
+                {
+                    "kanji": "欧",
+                    "onreading": "토할",
+                    "kunreading": "구"
+                },
+                {
+                    "kanji": "救",
+                    "onreading": "구할",
+                    "kunreading": "구"
+                },
+                {
+                    "kanji": "群",
+                    "onreading": "무리",
+                    "kunreading": "군"
+                },
+                {
+                    "kanji": "掘",
+                    "onreading": "팔",
+                    "kunreading": "굴"
+                },
+                {
+                    "kanji": "巻",
+                    "onreading": "쇠뇌",
+                    "kunreading": "권"
+                },
+                {
+                    "kanji": "権",
+                    "onreading": "권세",
+                    "kunreading": "권"
+                },
+                {
+                    "kanji": "叫",
+                    "onreading": "부르짖을",
+                    "kunreading": "규"
+                },
+                {
+                    "kanji": "均",
+                    "onreading": "고를",
+                    "kunreading": "균"
+                },
+                {
+                    "kanji": "肯",
+                    "onreading": "긍정할",
+                    "kunreading": "긍"
+                },
+                {
+                    "kanji": "祈",
+                    "onreading": "빌",
+                    "kunreading": "기"
+                },
+                {
+                    "kanji": "喫",
+                    "onreading": "마실",
+                    "kunreading": "끽"
+                },
+                {
+                    "kanji": "暖",
+                    "onreading": "따뜻할",
+                    "kunreading": "난"
+                },
+                {
+                    "kanji": "努",
+                    "onreading": "힘쓸",
+                    "kunreading": "노"
+                },
+                {
+                    "kanji": "怒",
+                    "onreading": "성낼",
+                    "kunreading": "노"
+                },
+                {
+                    "kanji": "濃",
+                    "onreading": "짙을",
+                    "kunreading": "농"
+                },
+                {
+                    "kanji": "悩",
+                    "onreading": "번뇌할",
+                    "kunreading": "뇌"
+                },
+                {
+                    "kanji": "脳",
+                    "onreading": "뇌",
+                    "kunreading": "뇌"
+                },
+                {
+                    "kanji": "泥",
+                    "onreading": "진흙",
+                    "kunreading": "니"
+                },
+                {
+                    "kanji": "党",
+                    "onreading": "무리",
+                    "kunreading": "당"
+                },
+                {
+                    "kanji": "袋",
+                    "onreading": "자루",
+                    "kunreading": "대"
+                },
+                {
+                    "kanji": "塗",
+                    "onreading": "바를",
+                    "kunreading": "도"
+                },
+                {
+                    "kanji": "凍",
+                    "onreading": "얼",
+                    "kunreading": "동"
+                },
+                {
+                    "kanji": "逃",
+                    "onreading": "달아날",
+                    "kunreading": "도"
+                },
+                {
+                    "kanji": "導",
+                    "onreading": "이끌",
+                    "kunreading": "도"
+                },
+                {
+                    "kanji": "毒",
+                    "onreading": "독",
+                    "kunreading": "독"
+                },
+                {
+                    "kanji": "銅",
+                    "onreading": "구리",
+                    "kunreading": "동"
+                },
+                {
+                    "kanji": "鈍",
+                    "onreading": "무딜",
+                    "kunreading": "둔"
+                },
+                {
+                    "kanji": "絡",
+                    "onreading": "이을",
+                    "kunreading": "락"
+                },
+                {
+                    "kanji": "略",
+                    "onreading": "다스릴",
+                    "kunreading": "략"
+                },
+                {
+                    "kanji": "涼",
+                    "onreading": "서늘할",
+                    "kunreading": "량"
+                },
+                {
+                    "kanji": "戻",
+                    "onreading": "어그러질",
+                    "kunreading": "려"
+                },
+                {
+                    "kanji": "齢",
+                    "onreading": "나이",
+                    "kunreading": "령"
+                },
+                {
+                    "kanji": "療",
+                    "onreading": "병고칠",
+                    "kunreading": "료"
+                },
+                {
+                    "kanji": "輪",
+                    "onreading": "바퀴",
+                    "kunreading": "륜"
+                },
+                {
+                    "kanji": "裏",
+                    "onreading": "속",
+                    "kunreading": "리"
+                },
+                {
+                    "kanji": "粒",
+                    "onreading": "낱알",
+                    "kunreading": "립"
+                },
+                {
+                    "kanji": "磨",
+                    "onreading": "갈",
+                    "kunreading": "마"
+                },
+                {
+                    "kanji": "湾",
+                    "onreading": "물굽이",
+                    "kunreading": "만"
+                },
+                {
+                    "kanji": "埋",
+                    "onreading": "묻을",
+                    "kunreading": "매"
+                },
+                {
+                    "kanji": "綿",
+                    "onreading": "이어질",
+                    "kunreading": "면"
+                },
+                {
+                    "kanji": "鳴",
+                    "onreading": "울",
+                    "kunreading": "명"
+                },
+                {
+                    "kanji": "暮",
+                    "onreading": "저물",
+                    "kunreading": "모"
+                },
+                {
+                    "kanji": "帽",
+                    "onreading": "모자",
+                    "kunreading": "모"
+                },
+                {
+                    "kanji": "猫",
+                    "onreading": "고양이",
+                    "kunreading": "묘"
+                },
+                {
+                    "kanji": "舞",
+                    "onreading": "춤출",
+                    "kunreading": "무"
+                },
+                {
+                    "kanji": "迷",
+                    "onreading": "미혹할",
+                    "kunreading": "미"
+                },
+                {
+                    "kanji": "薄",
+                    "onreading": "엷을",
+                    "kunreading": "박"
+                },
+                {
+                    "kanji": "髪",
+                    "onreading": "터럭",
+                    "kunreading": "발"
+                },
+                {
+                    "kanji": "抜",
+                    "onreading": "뺄",
+                    "kunreading": "발"
+                },
+                {
+                    "kanji": "訪",
+                    "onreading": "찾을",
+                    "kunreading": "방"
+                },
+                {
+                    "kanji": "坊",
+                    "onreading": "동네",
+                    "kunreading": "방"
+                },
+                {
+                    "kanji": "拝",
+                    "onreading": "절",
+                    "kunreading": "배"
+                },
+                {
+                    "kanji": "壁",
+                    "onreading": "벽",
+                    "kunreading": "벽"
+                },
+                {
+                    "kanji": "辺",
+                    "onreading": "가",
+                    "kunreading": "변"
+                },
+                {
+                    "kanji": "兵",
+                    "onreading": "군사",
+                    "kunreading": "병"
+                },
+                {
+                    "kanji": "補",
+                    "onreading": "기울",
+                    "kunreading": "보"
+                },
+                {
+                    "kanji": "腹",
+                    "onreading": "배",
+                    "kunreading": "복"
+                },
+                {
+                    "kanji": "棒",
+                    "onreading": "몽둥이",
+                    "kunreading": "봉"
+                },
+                {
+                    "kanji": "否",
+                    "onreading": "아닐",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "富",
+                    "onreading": "넉넉할",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "膚",
+                    "onreading": "살갗",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "浮",
+                    "onreading": "뜰",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "符",
+                    "onreading": "부신",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "副",
+                    "onreading": "버금",
+                    "kunreading": "부"
+                },
+                {
+                    "kanji": "粉",
+                    "onreading": "가루",
+                    "kunreading": "분"
+                },
+                {
+                    "kanji": "悲",
+                    "onreading": "슬플",
+                    "kunreading": "비"
+                },
+                {
+                    "kanji": "沸",
+                    "onreading": "끓을",
+                    "kunreading": "비"
+                },
+                {
+                    "kanji": "貧",
+                    "onreading": "가난할",
+                    "kunreading": "빈"
+                },
+                {
+                    "kanji": "砂",
+                    "onreading": "모래",
+                    "kunreading": "사"
+                },
+                {
+                    "kanji": "伺",
+                    "onreading": "엿볼",
+                    "kunreading": "사"
+                },
+                {
+                    "kanji": "似",
+                    "onreading": "같을",
+                    "kunreading": "사"
+                },
+                {
+                    "kanji": "捨",
+                    "onreading": "버릴",
+                    "kunreading": "사"
+                },
+                {
+                    "kanji": "床",
+                    "onreading": "마루",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "像",
+                    "onreading": "형상",
+                    "kunreading": "상"
+                },
+                {
+                    "kanji": "勢",
+                    "onreading": "기세",
+                    "kunreading": "세"
+                },
+                {
+                    "kanji": "召",
+                    "onreading": "부를",
+                    "kunreading": "소"
+                },
+                {
+                    "kanji": "焼",
+                    "onreading": "사를",
+                    "kunreading": "소"
+                },
+                {
+                    "kanji": "紹",
+                    "onreading": "이을",
+                    "kunreading": "소"
+                },
+                {
+                    "kanji": "束",
+                    "onreading": "묶을",
+                    "kunreading": "속"
+                },
+                {
+                    "kanji": "刷",
+                    "onreading": "인쇄할",
+                    "kunreading": "쇄"
+                },
+                {
+                    "kanji": "捜",
+                    "onreading": "찾을",
+                    "kunreading": "수"
+                },
+                {
+                    "kanji": "述",
+                    "onreading": "지을",
+                    "kunreading": "술"
+                },
+                {
+                    "kanji": "拾",
+                    "onreading": "주울",
+                    "kunreading": "습"
+                },
+                {
+                    "kanji": "昇",
+                    "onreading": "오를",
+                    "kunreading": "승"
+                },
+                {
+                    "kanji": "伸",
+                    "onreading": "펼",
+                    "kunreading": "신"
+                },
+                {
+                    "kanji": "双",
+                    "onreading": "쌍",
+                    "kunreading": "쌍"
+                },
+                {
+                    "kanji": "岸",
+                    "onreading": "언덕",
+                    "kunreading": "안"
+                },
+                {
+                    "kanji": "押",
+                    "onreading": "누를",
+                    "kunreading": "압"
+                },
+                {
+                    "kanji": "御",
+                    "onreading": "어거할",
+                    "kunreading": "어"
+                },
+                {
+                    "kanji": "億",
+                    "onreading": "억",
+                    "kunreading": "억"
+                },
+                {
+                    "kanji": "与",
+                    "onreading": "줄",
+                    "kunreading": "여"
+                },
+                {
+                    "kanji": "逆",
+                    "onreading": "거스를",
+                    "kunreading": "역"
+                },
+                {
+                    "kanji": "軟",
+                    "onreading": "연할",
+                    "kunreading": "연"
+                },
+                {
+                    "kanji": "燃",
+                    "onreading": "사를",
+                    "kunreading": "연"
+                },
+                {
+                    "kanji": "塩",
+                    "onreading": "소금",
+                    "kunreading": "염"
+                },
+                {
+                    "kanji": "栄",
+                    "onreading": "영화로울",
+                    "kunreading": "영"
+                },
+                {
+                    "kanji": "鋭",
+                    "onreading": "날카로울",
+                    "kunreading": "예"
+                },
+                {
+                    "kanji": "預",
+                    "onreading": "미리",
+                    "kunreading": "예"
+                },
+                {
+                    "kanji": "誤",
+                    "onreading": "그릇할",
+                    "kunreading": "오"
+                },
+                {
+                    "kanji": "奥",
+                    "onreading": "속",
+                    "kunreading": "오"
+                },
+                {
+                    "kanji": "腕",
+                    "onreading": "팔",
+                    "kunreading": "완"
+                },
+                {
+                    "kanji": "腰",
+                    "onreading": "허리",
+                    "kunreading": "요"
+                },
+                {
+                    "kanji": "勇",
+                    "onreading": "날쌜",
+                    "kunreading": "용"
+                },
+                {
+                    "kanji": "溶",
+                    "onreading": "녹을",
+                    "kunreading": "용"
+                },
+                {
+                    "kanji": "踊",
+                    "onreading": "뛸",
+                    "kunreading": "용"
+                },
+                {
+                    "kanji": "隅",
+                    "onreading": "모퉁이",
+                    "kunreading": "우"
+                },
+                {
+                    "kanji": "越",
+                    "onreading": "넘을",
+                    "kunreading": "월"
+                },
+                {
+                    "kanji": "偉",
+                    "onreading": "훌륭할",
+                    "kunreading": "위"
+                },
+                {
+                    "kanji": "委",
+                    "onreading": "맡길",
+                    "kunreading": "위"
+                },
+                {
+                    "kanji": "危",
+                    "onreading": "위태할",
+                    "kunreading": "위"
+                },
+                {
+                    "kanji": "柔",
+                    "onreading": "부드러울",
+                    "kunreading": "유"
+                },
+                {
+                    "kanji": "乳",
+                    "onreading": "젖",
+                    "kunreading": "유"
+                },
+                {
+                    "kanji": "遊",
+                    "onreading": "놀",
+                    "kunreading": "유"
+                },
+                {
+                    "kanji": "幼",
+                    "onreading": "어릴",
+                    "kunreading": "유"
+                },
+                {
+                    "kanji": "疑",
+                    "onreading": "의심할",
+                    "kunreading": "의"
+                },
+                {
+                    "kanji": "依",
+                    "onreading": "의지할",
+                    "kunreading": "의"
+                },
+                {
+                    "kanji": "異",
+                    "onreading": "다를",
+                    "kunreading": "이"
+                },
+                {
+                    "kanji": "翌",
+                    "onreading": "다음날",
+                    "kunreading": "익"
+                },
+                {
+                    "kanji": "賃",
+                    "onreading": "품팔이",
+                    "kunreading": "임"
+                },
+                {
+                    "kanji": "刺",
+                    "onreading": "찌를",
+                    "kunreading": "자"
+                },
+                {
+                    "kanji": "臓",
+                    "onreading": "오장",
+                    "kunreading": "장"
+                },
+                {
+                    "kanji": "著",
+                    "onreading": "분명할",
+                    "kunreading": "저"
+                },
+                {
+                    "kanji": "底",
+                    "onreading": "밑",
+                    "kunreading": "저"
+                },
+                {
+                    "kanji": "滴",
+                    "onreading": "물방울",
+                    "kunreading": "적"
+                },
+                {
+                    "kanji": "殿",
+                    "onreading": "큰 집",
+                    "kunreading": "전"
+                },
+                {
+                    "kanji": "絶",
+                    "onreading": "끊을",
+                    "kunreading": "절"
+                },
+                {
+                    "kanji": "静",
+                    "onreading": "고요할",
+                    "kunreading": "정"
+                },
+                {
+                    "kanji": "済",
+                    "onreading": "건널",
+                    "kunreading": "제"
+                },
+                {
+                    "kanji": "祭",
+                    "onreading": "제사",
+                    "kunreading": "제"
+                },
+                {
+                    "kanji": "諸",
+                    "onreading": "모든",
+                    "kunreading": "제"
+                },
+                {
+                    "kanji": "除",
+                    "onreading": "제할",
+                    "kunreading": "제"
+                },
+                {
+                    "kanji": "照",
+                    "onreading": "비출",
+                    "kunreading": "조"
+                },
+                {
+                    "kanji": "燥",
+                    "onreading": "마를",
+                    "kunreading": "조"
+                },
+                {
+                    "kanji": "兆",
+                    "onreading": "조짐",
+                    "kunreading": "조"
+                },
+                {
+                    "kanji": "罪",
+                    "onreading": "허물",
+                    "kunreading": "죄"
+                },
+                {
+                    "kanji": "仲",
+                    "onreading": "버금",
+                    "kunreading": "중"
+                },
+                {
+                    "kanji": "憎",
+                    "onreading": "미워할",
+                    "kunreading": "증"
+                },
+                {
+                    "kanji": "贈",
+                    "onreading": "보낼",
+                    "kunreading": "증"
+                },
+                {
+                    "kanji": "志",
+                    "onreading": "뜻",
+                    "kunreading": "지"
+                },
+                {
+                    "kanji": "脂",
+                    "onreading": "기름",
+                    "kunreading": "지"
+                },
+                {
+                    "kanji": "誌",
+                    "onreading": "기록할",
+                    "kunreading": "지"
+                },
+                {
+                    "kanji": "遅",
+                    "onreading": "늦을",
+                    "kunreading": "지"
+                },
+                {
+                    "kanji": "震",
+                    "onreading": "진동할",
+                    "kunreading": "진"
+                },
+                {
+                    "kanji": "珍",
+                    "onreading": "보배",
+                    "kunreading": "진"
+                },
+                {
+                    "kanji": "賛",
+                    "onreading": "도울",
+                    "kunreading": "찬"
+                },
+                {
+                    "kanji": "採",
+                    "onreading": "캘",
+                    "kunreading": "채"
+                },
+                {
+                    "kanji": "責",
+                    "onreading": "꾸짖을",
+                    "kunreading": "채"
+                },
+                {
+                    "kanji": "処",
+                    "onreading": "살",
+                    "kunreading": "처"
+                },
+                {
+                    "kanji": "浅",
+                    "onreading": "얕을",
+                    "kunreading": "천"
+                },
+                {
+                    "kanji": "畳",
+                    "onreading": "겹처질",
+                    "kunreading": "첩"
+                },
+                {
+                    "kanji": "晴",
+                    "onreading": "갤",
+                    "kunreading": "청"
+                },
+                {
+                    "kanji": "招",
+                    "onreading": "부를",
+                    "kunreading": "초"
+                },
+                {
+                    "kanji": "超",
+                    "onreading": "넘을",
+                    "kunreading": "초"
+                },
+                {
+                    "kanji": "秒",
+                    "onreading": "초",
+                    "kunreading": "초"
+                },
+                {
+                    "kanji": "触",
+                    "onreading": "닿을",
+                    "kunreading": "촉"
+                },
+                {
+                    "kanji": "総",
+                    "onreading": "거느릴",
+                    "kunreading": "총"
+                },
+                {
+                    "kanji": "追",
+                    "onreading": "쫓을",
+                    "kunreading": "추"
+                },
+                {
+                    "kanji": "畜",
+                    "onreading": "가축",
+                    "kunreading": "축"
+                },
+                {
+                    "kanji": "築",
+                    "onreading": "쌓을",
+                    "kunreading": "축"
+                },
+                {
+                    "kanji": "吹",
+                    "onreading": "불",
+                    "kunreading": "취"
+                },
+                {
+                    "kanji": "恥",
+                    "onreading": "부끄러워할",
+                    "kunreading": "치"
+                },
+                {
+                    "kanji": "歯",
+                    "onreading": "이",
+                    "kunreading": "치"
+                },
+                {
+                    "kanji": "沈",
+                    "onreading": "잠길",
+                    "kunreading": "침"
+                },
+                {
+                    "kanji": "探",
+                    "onreading": "찾을",
+                    "kunreading": "탐"
+                },
+                {
+                    "kanji": "塔",
+                    "onreading": "탑",
+                    "kunreading": "탑"
+                },
+                {
+                    "kanji": "投",
+                    "onreading": "던질",
+                    "kunreading": "투"
+                },
+                {
+                    "kanji": "坂",
+                    "onreading": "비탈",
+                    "kunreading": "판"
+                },
+                {
+                    "kanji": "怖",
+                    "onreading": "두려워할",
+                    "kunreading": "포"
+                },
+                {
+                    "kanji": "捕",
+                    "onreading": "잡을",
+                    "kunreading": "포"
+                },
+                {
+                    "kanji": "抱",
+                    "onreading": "안을",
+                    "kunreading": "포"
+                },
+                {
+                    "kanji": "幅",
+                    "onreading": "폭",
+                    "kunreading": "폭"
+                },
+                {
+                    "kanji": "暴",
+                    "onreading": "사나울",
+                    "kunreading": "폭"
+                },
+                {
+                    "kanji": "爆",
+                    "onreading": "폭발할",
+                    "kunreading": "폭"
+                },
+                {
+                    "kanji": "疲",
+                    "onreading": "지칠",
+                    "kunreading": "피"
+                },
+                {
+                    "kanji": "被",
+                    "onreading": "입을",
+                    "kunreading": "피"
+                },
+                {
+                    "kanji": "版",
+                    "onreading": "판목",
+                    "kunreading": "판"
+                },
+                {
+                    "kanji": "豊",
+                    "onreading": "풍성할",
+                    "kunreading": "풍"
+                },
+                {
+                    "kanji": "河",
+                    "onreading": "강 이름",
+                    "kunreading": "하"
+                },
+                {
+                    "kanji": "汗",
+                    "onreading": "땀",
+                    "kunreading": "한"
+                },
+                {
+                    "kanji": "含",
+                    "onreading": "머금을",
+                    "kunreading": "함"
+                },
+                {
+                    "kanji": "航",
+                    "onreading": "배",
+                    "kunreading": "항"
+                },
+                {
+                    "kanji": "軒",
+                    "onreading": "추녀",
+                    "kunreading": "헌"
+                },
+                {
+                    "kanji": "険",
+                    "onreading": "험할",
+                    "kunreading": "험"
+                },
+                {
+                    "kanji": "賢",
+                    "onreading": "어질",
+                    "kunreading": "현"
+                },
+                {
+                    "kanji": "挟",
+                    "onreading": "낄",
+                    "kunreading": "협"
+                },
+                {
+                    "kanji": "協",
+                    "onreading": "도울",
+                    "kunreading": "협"
+                },
+                {
+                    "kanji": "狭",
+                    "onreading": "좁을",
+                    "kunreading": "협"
+                },
+                {
+                    "kanji": "恵",
+                    "onreading": "은혜",
+                    "kunreading": "혜"
+                },
+                {
+                    "kanji": "湖",
+                    "onreading": "호수",
+                    "kunreading": "호"
+                },
+                {
+                    "kanji": "靴",
+                    "onreading": "신",
+                    "kunreading": "화"
+                },
+                {
+                    "kanji": "荒",
+                    "onreading": "거칠",
+                    "kunreading": "황"
+                },
+                {
+                    "kanji": "黄",
+                    "onreading": "누를",
+                    "kunreading": "황"
+                },
+                {
+                    "kanji": "環",
+                    "onreading": "고리",
+                    "kunreading": "환"
+                },
+                {
+                    "kanji": "灰",
+                    "onreading": "재",
+                    "kunreading": "회"
+                },
+                {
+                    "kanji": "横",
+                    "onreading": "가로",
+                    "kunreading": "횡"
+                },
+                {
+                    "kanji": "厚",
+                    "onreading": "두터울",
+                    "kunreading": "후"
+                },
+                {
+                    "kanji": "訓",
+                    "onreading": "가르칠",
+                    "kunreading": "훈"
+                },
+                {
+                    "kanji": "胸",
+                    "onreading": "가슴",
+                    "kunreading": "흉"
+                },
+                {
+                    "kanji": "喜",
+                    "onreading": "기쁠",
+                    "kunreading": "희"
+                },
+                {
+                    "kanji": "希",
+                    "onreading": "바랄",
+                    "kunreading": "희"
+                },
+                {
+                    "kanji": "詰",
+                    "onreading": "험난할",
+                    "kunreading": "힐"
+                }
+            ]
         },
         {
             "rank": "N1",
-            "kanjis": []
+            "contents": []
         }
     ]
 }
