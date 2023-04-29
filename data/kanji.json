@@ -1415,8 +1415,10 @@
                 },
                 {
                     "kanji": "画",
-                    "onreading": "그림, 그을",
-                    "kunreading": "화, 획"
+                    "onreading": "그림",
+                    "kunreading": "화",
+                    "second_onreading": "그을",
+                    "second_kunreading": "획"
                 },
                 {
                     "kanji": "回",
@@ -1945,8 +1947,10 @@
                 },
                 {
                     "kanji": "省",
-                    "onreading": "살필, 덜",
-                    "kunreading": "성, 생"
+                    "onreading": "살필",
+                    "kunreading": "성",
+                    "second_onreading": "덜",
+                    "second_kunreading": "생"
                 },
                 {
                     "kanji": "性",
@@ -2040,8 +2044,10 @@
                 },
                 {
                     "kanji": "易",
-                    "onreading": "바꿀, 쉬울",
-                    "kunreading": "역, 이"
+                    "onreading": "바꿀",
+                    "kunreading": "역",
+                    "second_onreading": "쉬울",
+                    "second_kunreading": "이"
                 },
                 {
                     "kanji": "役",
@@ -3560,8 +3566,10 @@
                 },
                 {
                     "kanji": "復",
-                    "onreading": "회복할, 다시",
-                    "kunreading": "복, 부"
+                    "onreading": "회복할",
+                    "kunreading": "복",
+                    "second_onreading": "다시",
+                    "second_kunreading": "부"
                 },
                 {
                     "kanji": "複",
@@ -3685,8 +3693,10 @@
                 },
                 {
                     "kanji": "率",
-                    "onreading": "거느릴, 비율",
-                    "kunreading": "솔,률"
+                    "onreading": "거느릴",
+                    "kunreading": "솔",
+                    "second_onreading": "비율",
+                    "second_kunreading": "률"
                 },
                 {
                     "kanji": "授",
