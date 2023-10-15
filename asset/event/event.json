@@ -1,0 +1,24 @@
+{
+    "event": [
+		{
+            "eventnum": 0,
+            "name": "FC Mobile Release",
+            "date": "2023.9.29",
+			"bannerlink" : "", 
+			"notionlink": ""
+		}, {
+            "eventnum": 1,
+            "name": "Welcome to FC Mobile",
+            "date": "2023.09.29 ~ 2023.10.25",
+			"bannerlink" : "", 
+			"notionlink": ""
+        }, {
+            "eventnum": 2,
+            "name": "Icon Journey",
+            "date": "2023.10.12 ~ 시즌 종료",
+			"bannerlink" : "", 
+			"notionlink": ""
+        }, 
+
+    ]
+}
